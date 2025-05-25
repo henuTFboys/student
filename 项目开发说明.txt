@@ -1,0 +1,34 @@
+开发平台：
+鼓励使用Linux和其它类Unix系统（起评分+10）
+Windows
+
+开发工具：
+各种IDE都可以，如果使用Makefile（起评分+10）
+
+文档撰写工具：
+1，PPT
+2，项目总结文档（Word），鼓励使用Latex（起评分+10）
+
+绘图工具：
+1，Microsoft Office Visio
+2, drawio
+3,或者其它开源工具
+
+文档对比工具：
+Beyondcompare
+
+版本管理及协同开发工具：
+GitHub，也即是会使用Git，建立本地的Git服务器
+feifanyyh
+
+类图设计工具：
+IBM Rational Rose
+或者其他开源工具
+
+项目选题：给一个清晰准确的题目
+功能描述：不少于200字。
+
+源代码阅读工具：
+VS Code
+SourceInsight
+
