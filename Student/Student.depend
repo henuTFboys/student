@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1748257291 source:c:\users\cmtcy\desktop\student\main.cpp
+	<iostream>
+	<cmath>
+	<cstring>
+	<vector>
+
+1748257327 source:c:\users\cmtcy\desktop\student\student.cpp
+	<iostream>
+	"Student.h"
+
+1748257313 c:\users\cmtcy\desktop\student\student.h
+	<iostream>
+
