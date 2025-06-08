@@ -12,3 +12,17 @@
 1748257313 c:\users\cmtcy\desktop\student\student.h
 	<iostream>
 
+1748313252 source:d:\student-main\student-main\student\student.cpp
+	<iostream>
+	"Student.h"
+
+1748312504 d:\student-main\student-main\student\student.h
+	<string>
+
+1748272582 source:d:\student-main\student-main\student\main.cpp
+	<iostream>
+	<cmath>
+	<cstring>
+	<vector>
+	"Student.h"
+
