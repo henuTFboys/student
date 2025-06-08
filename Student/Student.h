@@ -1,31 +1,37 @@
 #ifndef STUDENT_H
 #define STUDENT_H
 
-#include<iostream>
+#include <string>
 
 using namespace std;
+
 class Student
 {
 private:
-    string Name;
-    string Sex;
-    int Class;
-    int Id;//Student id
-    double Score;
+    string name;
+    string sex;
+    int className;
+    int id;
+    int age;
+    double score;
 public:
     Student();
-    Student(string name,string sex,int cla,int id,double sco );
+    Student(string name,string sex,int className,int id,int age,double score );
 
-    setName(string name);
-    setSex(string sex);
-    setId(int id);
-    setClass(int cla);
-    setScore(double sco);
+    void setName(string name);
+    void setSex(string sex);
+    void setId(int id);
+    void setClassName(int className);
+    void setAge(int age);
+    void setScore(double score);
 
-    string getName();
-    string getSex();
-    int getId();
-    int getClass();
-    double getScore();
+    string getName() const;
+    string getSex() const;
+    int getId() const;
+    int getClassName() const;
+    int getAge() const;
+    double getScore() const;
+
+    void displayInfo() const;
 };
 #endif
